@@ -253,7 +253,7 @@ B.Tech Computer Science Engineering (AI & ML)
 
 Passionate about Machine Learning, Backend Development, Cloud Computing, and Problem Solving.
 
-- 💼 LinkedIn: *(Add your profile link)*
+- 💼 LinkedIn: *(www.linkedin.com/in/tarunsingh13)*
 - 💻 GitHub: *(Add your GitHub profile link)*
 
 ---
